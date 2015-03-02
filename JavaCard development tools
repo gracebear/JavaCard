@@ -1,4 +1,4 @@
-#JavaCard development tools
+#JavaCard Development Tools
 The following tools are specifically for JavaCard development.
 1. JCOP 
    Java Card OpenPlatform (JCOP) is a smart card operating system for the Java Card platform.This development tools is a plugin 
@@ -10,7 +10,7 @@ The following tools are specifically for JavaCard development.
      a. Code Intelligence 
      b. Poweful Editor
      c. Graphical Debugger
-   For more information: http://javacos.com/sdkinfo.php [javacos.com](http://javacos.com/sdkinfo.php)
+   For more information: http://javacos.com/sdkinfo.php
    
 3. SCT
    SCT is a scripting tool that can be unlimited extension for smart cards . 
