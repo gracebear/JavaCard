@@ -1,0 +1,10 @@
+# How to convert javacard applet to .cap file
+When I have completed the applet in this project,I wanted to load it to a real card.Then I came across a problem - how to convert 
+javacard applet to .cap file.
+I searched some data from the internet. Here thanks to Stack Overflow(http://stackoverflow.com/)giving me more information.
+
+* Eclipse http://eclipse-jcde.sourceforge.net/user-guide.htm
+ I followed the user guide and I successed.
+ 
+* JCIDE 
+After building on JCIDE,JCIDE will generate a CAP file automatically.
