@@ -1,3 +1,12 @@
+/* 
+ * This applet is the basic javacard application.
+ * This applet was tested on JCIDE(http://www.javacos.com/sdkinfo.php). 
+ * @ author: gracebear
+ * Make a Little Progress Every Day
+ * PS:If you encounter the error '6985'and '6A88' during installing .cap file, you should set the application 
+ * specific parameters first. The set path in JCIDE :Debug--Run or Debug Configuration--edit--application specific 
+ * parameters.
+ */
 package WalletDemoApplet;
 
 import javacard.framework.*;
