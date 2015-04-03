@@ -1,5 +1,5 @@
 /* 
- * This applet is the basic javacard application.
+ * This is the basic javacard application which will show you a better demo for your future applet development.
  * This applet was tested on JCIDE(http://www.javacos.com/sdkinfo.php). 
  * @ author: gracebear
  * Make a Little Progress Every Day
