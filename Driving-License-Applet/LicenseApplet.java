@@ -3,7 +3,7 @@
  * Based on the passport applet code developed by the JMRTD team, see
  * http://jmrtd.org
  * Tested on JCIDE, see
- * http://www.javacos.com/sdkinfo.php 
+ * http://www.javacos.com/developmentkit.php 
  *
  * Copyright (C) 2006  SoS group, Radboud University
  * Copyright (C) 2009  Wojciech Mostowski, Radboud University
