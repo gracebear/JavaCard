@@ -1,6 +1,6 @@
 /* 
  * This should be the first applet to study javacard applet development.
- * This applet was tested on JCIDE(http://www.javacos.com/sdkinfo.php). 
+ * This applet was tested on JCIDE(http://www.javacos.com/developmentkit.php). 
  * @ author: gracebear
  * Make a Little Progress Every Day
  * 
