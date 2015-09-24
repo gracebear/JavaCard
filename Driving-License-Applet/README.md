@@ -4,4 +4,4 @@ This Electronic Driving License applet implements the ISO18013 standard on a sma
   http://jmrtd.org
 
 * Tested on JCIDE, see
-  http://www.javacos.com/developmentkit.php
+ http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43
