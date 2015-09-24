@@ -12,9 +12,9 @@ Java Card developers' specialty community: http://www.javacardos.com/javacardfor
 
 ## Relevant Links
 * https://github.com/martinpaljak
-* http://www.javacos.com
-* https://javacard.pro
 * http://www.javacardos.com
+* https://javacard.pro
+* http://www.javacos.com
 * http://gracebear.github.io/JavaCard
 
 
