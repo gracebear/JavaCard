@@ -10,6 +10,9 @@ Here is the best school for you to get to know javacard development.
 ## Specialty Community
 Java Card developers' specialty community: http://www.javacardos.com/javacardforum/ 
 
+## Java Card WIKI
+Java Card Wiki pedia: http://javacardos.com/wiki/doku.php
+
 ## Relevant Links
 * https://github.com/martinpaljak
 * http://www.javacardos.com
