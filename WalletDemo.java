@@ -1,6 +1,6 @@
 /* 
  * This is the basic javacard application which will show you a better demo for your future applet development.
- * This applet was tested on JCIDE(http://www.javacos.com/sdkinfo.php). 
+ * This applet was tested on JCIDE(http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43). 
  * @ author: gracebear
  * Make a Little Progress Every Day
  * PS:If you encounter the error '6985'and '6A88' during installing .cap file, you should set the application 
