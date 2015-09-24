@@ -16,4 +16,4 @@ The electronic identity(EID) card is a government-issued document for online and
 ◾ No defensive measures are implemented, only a “positive path” imitation.
 
 Note:
-The applet was tested on JCIDE, see http://www.javacos.com/developmentkit.php
+The applet was tested on JCIDE, see http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43
